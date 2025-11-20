@@ -1,0 +1,18 @@
+!PBE0 def2-SV(p) opt d3 TightSCF SlowConv RIJCOSX defgrid2
+
+%pal
+nprocs 4
+end
+
+%scf
+MaxIter 1500
+end
+
+%maxcore 3500
+
+ 
+
+* xyz 0 3
+8        0.000000000      0.000000000      1.480000000
+8        0.000000000      0.000000000      0.000000000
+*

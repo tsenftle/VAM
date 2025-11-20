@@ -1,0 +1,13 @@
+!r2SCANh def2-TZVP d3 TightSCF SlowConv RIJCOSX defgrid2
+
+%scf
+MaxIter 1500
+end
+
+%maxcore 3500
+
+ 
+
+* xyz 0 1
+  Pd           0.000 0.000 0.000
+*
