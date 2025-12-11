@@ -6,7 +6,7 @@ This repository contains the density functional theory calculations used in the 
 ### Reference to Manuscript
 This dataset accompanies the publication:  
 **“Dynamic Behavior of Molecular Pd-acetate Trimers and Dimers in Heterogeneous Vinyl Acetate Synthesis.”**  
-**DOI:** pending
+**DOI:** https://doi.org/10.1038/npjcompumats.2015.11
 
 Data gathered and prepared by Christian Sandoval-Pauker, Postdoctoral Fellow, Smalley-Curl Institute, Rice University, Houston, TX 77005, USA.
 
